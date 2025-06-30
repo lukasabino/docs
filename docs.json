@@ -18,14 +18,7 @@
             "pages": [
               "mapos/index",
               "mapos/clientes",
-              {
-					"group": "Configurações",
-					"icon": "code",
-					"pages": [
-						"mapos/configuracoes/emitente",
-						"mapos/configuracoes/emails"
-					]
-				}
+              "mapos/produtos"
             ]
           }
         ]
