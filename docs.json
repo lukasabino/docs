@@ -16,7 +16,6 @@
           {
             "group": "Map-Os",
             "pages": [
-              "mapos/index",
               "mapos/clientes",
               "mapos/produtos",
               "mapos/servicos"
