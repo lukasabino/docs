@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="Layer_2" data-name="Layer 2" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 887.43 292.59">
+  <defs>
+    <style>
+      .cls-1 {
+        font-family: Inter-Bold, Inter;
+        font-size: 181.98px;
+        font-weight: 700;
+      }
+
+      .cls-1, .cls-2, .cls-3 {
+        fill: #fff;
+      }
+
+      .cls-4 {
+        fill: #dbdbdb;
+      }
+
+      .cls-2 {
+        font-family: IBMPlexSans, 'IBM Plex Sans';
+        font-size: 46px;
+      }
+
+      .cls-5 {
+        letter-spacing: .02em;
+      }
+
+      .cls-6 {
+        letter-spacing: .01em;
+      }
+    </style>
+  </defs>
+  <g id="Layer_1-2" data-name="Layer 1">
+    <g>
+      <text class="cls-1" transform="translate(278.68 200.6)"><tspan x="0" y="0">SysGO</tspan></text>
+      <text class="cls-2" transform="translate(312.85 281.32)"><tspan class="cls-5" x="0" y="0">Solu</tspan><tspan class="cls-6" x="94.44" y="0">ç</tspan><tspan class="cls-5" x="118.13" y="0">ões que simplificam</tspan></text>
+      <path class="cls-3" d="M238.87,64.79L132.71.98s-11.86-2.82-18.07,1.13S8.47,66.48,8.47,66.48c0,0-5.08,5.65-6.21,9.04l120.85,72.85s9.04-15.81,14.68-16.38l97.69-60.42s3.39,0,3.39-6.78Z"/>
+      <path class="cls-3" d="M115.2,283.33L7.91,216.69s-6.21-2.26-7.91-20.33v-113.51s.28-7.06,2.26-7.34,120.85,72.85,120.85,72.85c0,0-1.98,9.04-1.69,13.84l-.28,118.02s1.41,6.21-5.93,3.11Z"/>
+      <polygon class="cls-4" points="140.8 276.27 198.4 192.69 239.06 216.79 140.8 276.27"/>
+      <path class="cls-3" d="M136.09,278.53l-.38-116.89s1.13-12.99,14.49-19.58l87.15-54.21s8.09-6.21,9.6,4.33l-.38,109.36s.94,10.35-6.78,14.12l-41.41-22.96-57.6,83.58s-.75,4.71-4.71,2.26Z"/>
+    </g>
+  </g>
+</svg>
