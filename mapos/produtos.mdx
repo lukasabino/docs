@@ -10,3 +10,65 @@ icon: "boxes-stacked"
 Ao acessar a tela (via menu esquerdo ou atalho), é apresentado todos os cadastros já realizados, mostrando seus principais dados e as ações disponíveis, baseando-se no cadastro de [permissões](/mapos/configuracoes/permissoes) do [usuário](/mapos/configuracoes/usuarios).
 
 ![Grade Produtos Pn](/images/produtos/grade-produtos.png)
+
+### Adicionar produto
+
+Para iniciar o cadastro de um produto, basta clicar no botão verde na tela geral dos produtos.
+
+Ao clicar, será redirecionado para a tela abaixo, onde todos os itens marcados com o **\*** (asterisco) é de preenchimento obrigatorio, ou seja, caso estejam em branco, não será possivel salvar o cadastro.
+
+<Tip>
+  Agora no Map-Os é possível selecionar entre Markup e Margem para o calculo do preço de venda, baseando-se no custo do produto, busque se atentar a este dado para não haver prejuizos na operação.
+</Tip>
+
+![Cadastro Produto Pn](/images/produtos/cadastro-produto.png)
+
+Agora que já sabemos os dados necessários para o cadastro, vamos preencher este formulário\!...
+
+![Cadastro Produto Completo Pn](/images/produtos/cadastro-produto-completo.png)
+
+Maravilha, agora podemos seguir\!\
+\
+Veja que estou cadastrando um processar intel, onde seu custo é R\$500,00 e estou aplicando uma margem de 30% para ter seu preço de venda, neste caso, o sistema está realizando o seguinte calculo:  $precoVenda = (precoCompra / (1 - (Lucro / 100)))$ - para entender melhor este calculo, [clique aqui](https://g.co/gemini/share/30f5ad28531d).
+
+Validando todos os dados, basta clicar em **Adicionar**, para podermos seguir.
+
+### Visualizar produto
+
+Ao retornamos a tela inicial dos produtos, nossa primeira ação da grade é a de **Visualizar Produto**, clicando, somos levados para visualização total dos dados do produto em questão.
+
+![Dados Produtos Pn](/images/produtos/dados-produtos.png)
+
+### Editar produto
+
+O segundo botão de ação nos leva para a tela de edição do produto, tela similar a de cadastro, onde será carregado todos os dados já cadastrados dele.
+
+![Editar Produto Pn](/images/produtos/editar-produto.png)
+
+Após alterar o desejado, basta clicar em **Atualizar**.
+
+### Excluir produto
+
+Ao clicar em excluir, aparecerá um alerta pedindo a confirmação desta ação.
+
+<Warning>
+  Ao decidir excluir, todos os movimentos do produto serão excluídos, tenha cuidado ao usar esta função, ela pode impactar em relatórios e na visualização das Vendas e Ordem de Serivço.
+
+  Valide sempre nas permissões, quem pode executar tal ação.
+</Warning>
+
+![Excluir Produto Pn](/images/produtos/excluir-produto.png)
+
+### Atualizar estoque
+
+Para quem usa o sistema com o controle de estoque ativado nas configurações do [sistema](/mapos/configuracoes/sistema), é possível a adição e subtração do estoque atual do produto no último botão de ação da grade de produtos. 
+
+![Atualizar Estoque Pn](/images/produtos/atualizar-estoque.png)
+
+<Tip>
+  Caso queira diminuir o estoque do produto, no campo, basta digitar um valor negativo.
+</Tip>
+
+<Icon icon="cloud-question" /> **Dúvidas?**
+
+Nossa equipe está sempre pronta para ajudar\! Entre em contato pelo nosso WhatsApp: [\+55 (11) 91368-8290](https://sysgo.com.br/wa)
