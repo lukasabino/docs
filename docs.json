@@ -14,12 +14,6 @@
         "tab": "Base de Conhecimento",
         "groups": [
           {
-            "group": "Comece aqui",
-            "pages": [
-              "index"
-            ]
-          },
-          {
             "group": "Map-Os",
             "pages": [
               "mapos/index",
