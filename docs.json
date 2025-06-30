@@ -18,7 +18,8 @@
             "pages": [
               "mapos/index",
               "mapos/clientes",
-              "mapos/produtos"
+              "mapos/produtos",
+              "mapos/servicos"
             ]
           }
         ]
